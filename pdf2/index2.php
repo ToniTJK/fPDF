@@ -15,13 +15,13 @@ require('../fpdf/fpdf.php');
 class MiPDF extends FPDF {
 function Header(){
 	$this->SetFont('Arial','B', 12);
-	$this->SetFillColor(255,255,255);
-	$this->SetDrawColor(0,0,0);
-	$this->SetLineWidth(0.5);
+	//$this->SetFillColor(255,255,255);
+	//$this->SetDrawColor(0,0,0);
+	//$this->SetLineWidth(0.5);
 	$this->Ln(2);
 	$this->SetTextColor(10,120,180);
 	$this->Cell(205,8,"Llistat d'empleats segons el codi departament",0,2,'C',false);
-	$this->Image('../webbing.png', 0, -10,-150);
+	$this->Image('../git.png', 20, 0,-120);
 
 	$this->Ln(5);
 }

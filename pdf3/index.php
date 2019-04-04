@@ -59,7 +59,7 @@ function Header(){
 	$this->Ln(2);
 	$this->SetTextColor(10,120,180);
 	$this->Cell(205,8,"Llistat d'empleats amb comisio major a 0",0,2,'C',false);
-	$this->Image('../webbing.png', 0, -10,-150);
+	$this->Image('../git.png', 20, 0,-120);
 	$this->Ln(5);
 }
 
