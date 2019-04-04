@@ -1,4 +1,4 @@
-# DRESCRIPTION # ENGLISH
+# DESCRIPTION # ENGLISH
 Practice with FPDF and jPgraph:
 Prácticas con la libreria fPDF y jpgraph:
 
@@ -8,7 +8,7 @@ BD: empresa.sql (create database empresa before import sql)
 
 Libreria: https://jpgraph.net/ & http://www.fpdf.org/
 
-# DRESCRIPTION # SPANISH
+# DESCRIPCIÓN # SPANISH
 Prácticas con la libreria fPDF y jpgraph:
 
 Enunciado: Activitat_de_PHP_PDFs.docx (esta en catalán :s)
